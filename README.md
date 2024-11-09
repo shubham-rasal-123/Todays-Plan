@@ -33,7 +33,7 @@ This project is a responsive and interactive registration form built with [React
   + `react-scripts`
   + `web-vitals`
   
-#### Step 2: Create another file named app.js inside project directory:
+#### Step 3: Create another file named app.js inside project directory:
 
 + `touch App.js`
 + `touch App.css`
@@ -41,7 +41,7 @@ This project is a responsive and interactive registration form built with [React
 + `touch index.css`
 + `touch Plan.js`
     
-#### Step 3: Run the following command to ensure all modules are loaded:
+#### Step 4: Run the following command to ensure all modules are loaded:
 
 + `npm install`
 
